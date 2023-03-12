@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      开始每周简单地记录一下生活
+title:      开始每周简单地记录一下科研和生活
 subtitle:   
 date:       2023-03-12
 author:     Xu
